@@ -11,6 +11,7 @@
   "dependencies": {
     "@ai-sdk/openai": "^1.2.1",
     "@ai-sdk/react": "^1.1.21",
+    "@openrouter/ai-sdk-provider": "^0.4.3",
     "ai": "^4.1.54",
     "next": "15.2.1",
     "react": "^19.0.0",
