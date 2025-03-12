@@ -11,18 +11,27 @@
   "dependencies": {
     "@ai-sdk/openai": "^1.2.1",
     "@ai-sdk/react": "^1.1.21",
+    "@octokit/rest": "^21.1.1",
     "@openrouter/ai-sdk-provider": "^0.4.3",
     "ai": "^4.1.54",
+    "lucide-react": "^0.479.0",
+    "marked": "^15.0.7",
     "next": "15.2.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
+    "tailwind-merge": "^3.0.2",
     "zod": "^3.24.2"
   },
   "devDependencies": {
+    "@octokit/types": "^13.8.0",
     "@tailwindcss/postcss": "^4",
+    "@tailwindcss/typography": "^0.5.16",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "tailwind-scrollbar": "^4.0.1",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
